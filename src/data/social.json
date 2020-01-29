@@ -1,0 +1,20 @@
+{
+  "links": [
+    {
+      "title": "DEV.to",
+      "icon": "fa-devto",
+      "url": "https://dev.to/marcustanx"
+    },
+    {
+      "title": "Github",
+      "icon": "fa-github",
+      "url": "https://github.com/marcustanx"
+    },
+    {
+      "type": "linkedin",
+      "title": "LinkedIn",
+      "icon": "fa-linkedin",
+      "url": "https://www.linkedin.com/in/marcustanzw"
+    }
+  ]
+}

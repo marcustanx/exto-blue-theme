@@ -1,0 +1,17 @@
+{
+  "title": "Marcus Tan's Website",
+  "color_scheme": "light",
+  "accent_color": "blue",
+  "header": {
+    "title": "Marcus Tan's Website",
+    "has_nav": true,
+    "logo_img": "/images/IMG_0240.JPG"
+  },
+  "footer": {
+    "content": "&copy; Marcus Tan. All rights reserved.",
+    "links": [
+
+    ],
+    "has_social": true
+  }
+}
