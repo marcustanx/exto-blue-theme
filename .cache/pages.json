@@ -1,0 +1,112 @@
+[
+    {
+        "componentChunkName": "component---src-templates-home-js",
+        "jsonName": "index",
+        "path": "/"
+    },
+    {
+        "componentChunkName": "component---src-templates-page-js",
+        "jsonName": "about-f34",
+        "path": "/about/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-js",
+        "jsonName": "blog-f7a",
+        "path": "/blog/"
+    },
+    {
+        "componentChunkName": "component---src-templates-contact-js",
+        "jsonName": "contact-26a",
+        "path": "/contact/"
+    },
+    {
+        "componentChunkName": "component---cache-dev-404-page-js",
+        "jsonName": "dev-404-page-5f9",
+        "path": "/dev-404-page/"
+    },
+    {
+        "componentChunkName": "component---src-templates-portfolio-js",
+        "jsonName": "portfolio-964",
+        "path": "/portfolio/"
+    },
+    {
+        "componentChunkName": "component---src-templates-post-js",
+        "jsonName": "posts-2016-08-22-working-from-home-c22",
+        "path": "/posts/2016-08-22-working-from-home/"
+    },
+    {
+        "componentChunkName": "component---src-templates-post-js",
+        "jsonName": "posts-2017-03-26-interior-designer-bfd",
+        "path": "/posts/2017-03-26-interior-designer/"
+    },
+    {
+        "componentChunkName": "component---src-templates-post-js",
+        "jsonName": "posts-2018-01-09-games-54c",
+        "path": "/posts/2018-01-09-games/"
+    },
+    {
+        "componentChunkName": "component---src-templates-post-js",
+        "jsonName": "posts-2018-01-11-green-850",
+        "path": "/posts/2018-01-11-green/"
+    },
+    {
+        "componentChunkName": "component---src-templates-post-js",
+        "jsonName": "posts-2018-01-15-function-of-design-40f",
+        "path": "/posts/2018-01-15-function-of-design /"
+    },
+    {
+        "componentChunkName": "component---src-templates-post-js",
+        "jsonName": "posts-2019-03-10-street-photography-58a",
+        "path": "/posts/2019-03-10-street-photography/"
+    },
+    {
+        "componentChunkName": "component---src-templates-post-js",
+        "jsonName": "posts-2019-03-24-workplace-708",
+        "path": "/posts/2019-03-24-workplace/"
+    },
+    {
+        "componentChunkName": "component---src-templates-post-js",
+        "jsonName": "posts-2019-03-27-why-fonts-matter-f8a",
+        "path": "/posts/2019-03-27-why-fonts-matter/"
+    },
+    {
+        "componentChunkName": "component---src-templates-project-js",
+        "jsonName": "projects-project-1-488",
+        "path": "/projects/project-1/"
+    },
+    {
+        "componentChunkName": "component---src-templates-project-js",
+        "jsonName": "projects-project-2-230",
+        "path": "/projects/project-2/"
+    },
+    {
+        "componentChunkName": "component---src-templates-project-js",
+        "jsonName": "projects-project-3-275",
+        "path": "/projects/project-3/"
+    },
+    {
+        "componentChunkName": "component---src-templates-project-js",
+        "jsonName": "projects-project-4-8cc",
+        "path": "/projects/project-4/"
+    },
+    {
+        "componentChunkName": "component---src-templates-project-js",
+        "jsonName": "projects-project-5-32c",
+        "path": "/projects/project-5/"
+    },
+    {
+        "componentChunkName": "component---src-templates-project-js",
+        "jsonName": "projects-project-6-45f",
+        "path": "/projects/project-6/"
+    },
+    {
+        "componentChunkName": "component---src-templates-project-js",
+        "jsonName": "projects-project-7-ad5",
+        "path": "/projects/project-7/"
+    },
+    {
+        "componentChunkName": "component---src-templates-page-js",
+        "jsonName": "style-guide-7c8",
+        "path": "/style-guide/"
+    }
+]
